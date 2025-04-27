@@ -1,5 +1,5 @@
-# College Mania
-Full-Stack Social media website using Springboot, React, Websocket and Mysql
+# Real-Time-Chat-Room
+Full-Stack Chat-Room Application using Springboot, React, Websocket and Mysql
 
 ## 🖥️ Tech Stack
 **Frontend:**
