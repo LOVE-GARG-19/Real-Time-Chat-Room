@@ -19,8 +19,7 @@ Full-Stack Chat-Room Application using Springboot, React, Websocket and Mysql
 ![websocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white)
 
 **Cloud Storage:**
-
-**Cloud Storage:** [Cloudinary](https://cloudinary.com/)
+[Cloudinary](https://cloudinary.com/)
 
 ## 🚀 Features
 **Messaging System**
